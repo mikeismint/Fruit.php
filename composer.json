@@ -1,5 +1,5 @@
 {
-  "name": "Fruit.php",
+  "name": "mikeismint/Fruit"
   "keywords": ["router", "routing"],
 
   "require": {
