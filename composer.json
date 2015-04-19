@@ -11,6 +11,8 @@
   },
 
   "autoload": {
-    "Fruit\\": "src/"
+    "psr-4": {
+      "Fruit\\": "src/"
+    }
   }
 }
